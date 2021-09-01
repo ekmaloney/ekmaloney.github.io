@@ -1,0 +1,11 @@
+---
+title: "About me"
+description: |
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Hi! I am a PhD candidate in sociology at Duke University. I study identity and emotion processes, particularly in the areas of status inequality and cultural change. Before graduate school, I studied sociology and cognitive science at the University of Georgia. In my free time, I like to take my dog for walks around Durham, read (currently: Paul Takes the form of a Mortal Girl), and see live music at the Pinhook or Cat's Cradle.  
