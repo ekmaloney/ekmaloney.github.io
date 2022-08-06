@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-08-06T16:17:26-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Em K. Maloney ",
+      "description": "Hi! I am a PhD candidate in sociology at Duke University. I study identity and emotion processes, particularly in the areas of status inequality and cultural change. Before graduate school, I studied sociology and cognitive science at the University of Georgia. In my free time, I like to take my dog for walks around Durham, read (currently: Mona by Pola Oloixarac), and see live music at the Pinhook or Cat's Cradle. \n",
+      "author": [],
+      "contents": "\nResearch\nBroadly conceived, my research agenda uses social psychological theories to investigate the relationship between social identities and status processes. I am interested in how identity shapes interactions and emotions in everyday life, over time, and within specific institutional domains: work, politics, and gender. In this research, I use primarily quantitative methods, including network analysis and Bayesian modeling. Theoretically, I take a relational and formal approach informed by affect control theory, a social-psychological theory of cultural meaning. My future work is aimed at applying these theoretical perspectives and methodological approaches to questions of cultural change and morality.\nDissertation\nMy dissertation centers on using formal theories of identity and relational perspectives to delineate how status, as measured by ideas of cultural goodness and honor, separates occupational identities in a distinct way from more traditional measures of material resources and power, and how these status differentials affect daily life.\nIn my first paper, I use Bayesian affect control theory to construct a network of deference relations between occupational identities. I use blockmodeling, a network algorithm that uncovers structural roles within networks, to construct status groups of occupational identities that fall into similar positions within the deference structure.\nIn my second paper, I hypothesize and test an identity-based mechanism for differences in emotional experience across occupational identities. I further explore how this mechanism is dependent on one’s social status, because those in higher social status positions may be more likely to have prominent and salient occupational identities and the resources to confirm those identities in situations.\nIn my third paper, I am using a new, broader set of 650 occupational identities that are connected to census codes to re-construct the occupational status groups and test how these status positions are related to traditional measures of inequality.\nContact\nemail: em.k.maloney@duke.edu\ntwitter: @emkmaloney\n\n\n\n",
+      "last_modified": "2022-08-06T16:17:27-04:00"
+    }
+  ],
+  "collections": []
+}
